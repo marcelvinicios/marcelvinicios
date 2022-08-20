@@ -4,8 +4,7 @@
 
 - 👋 Olá, meu nome é @marcelvinicios
 - :+1: Meu e-mail de contato é marcel.pulido@escola.pr.gov.br
-- 👀 Eu estou interessado em aprender a programar novas linguagens. 
-- 🌱 Eu estou aprendendo a programar recentemente a linguagem JavaScript e Scratch. 
+- Trabalhando atualmente com as linguagens JavaScript e Scratch. 
 
 <!---
 marcelvinicios/marcelvinicios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
